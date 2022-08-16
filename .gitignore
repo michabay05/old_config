@@ -1,0 +1,4 @@
+nvim.old/coc/
+nvim.old/ranger
+nvim.old/nvim/autoload
+nvim.current/nvim/plugin
